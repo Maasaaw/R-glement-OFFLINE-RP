@@ -13,3 +13,4 @@ Ce wiki contient toutes les règles officielles, procédures, et informations po
 - [Crimes et Illégal](regles.md#crimes-et-illegal)
 - [LSPD & Légal](regles.md#lspd--legal)
 - [Sanctions](regles.md#sanctions)
+
